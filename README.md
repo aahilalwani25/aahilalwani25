@@ -41,7 +41,7 @@ to the world in an impactful way.
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=aahilalwani25&show_icons=true&theme=radical](https://camo.githubusercontent.com/aafacd4ae33b15cb91aaf49c7d9f59b663ffcaae87b1e3cf13b7124c59709dd6/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d62617373616d6e6165656d267468656d653d6461726b))
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aahilalwani25&theme=dark&show_icons=true)
 
 ## 🏆 Top Languages
 
