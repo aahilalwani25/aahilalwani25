@@ -39,7 +39,7 @@ to the world in an impactful way.
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aahilalwani25&theme=dark&show_icons=true)
+![Your Name's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=aahilalwani25&theme=dark)
 
 ## 🏆 Top Languages
 
