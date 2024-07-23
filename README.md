@@ -1,8 +1,6 @@
 # Hi there, I'm Aahil Alwani 👋
 ## Passionate Software Engineer and Mobile App Developer
 
-![Profile views](https://gpvc.arturio.dev/aahilalwani25)
-
 ## 🚀 About Me
 
 I am an undergraduate student passionate and skilled in developing web and mobile apps. A web development enthusiast with great
