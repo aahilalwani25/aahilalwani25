@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![Profile views](https://gpvc.arturio.dev/[your-username])
+![Profile views](https://gpvc.arturio.dev/aahilalwani25)
