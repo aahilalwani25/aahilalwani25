@@ -47,7 +47,7 @@ to the world in an impactful way.
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/aahil-alwani-55b920231)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](www.linkedin.com/in/aahil-alwani)
 
 <!--## 💼 My Projects
 
