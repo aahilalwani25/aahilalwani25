@@ -3,7 +3,7 @@
 
 ## 🚀 About Me
 
-I am an undergraduate student passionate and skilled in developing web and mobile apps. A web development enthusiast with great
+I am a graduate professional passionate and skilled in developing web and mobile apps. A web and mobile app development enthusiast with great
 problem solving and communication skills, looking for a platform to enhance and enrich my skillset which would allow me to contribute
 to the world in an impactful way. 
 
